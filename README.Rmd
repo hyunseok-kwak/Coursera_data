@@ -1,4 +1,9 @@
-# Human Activity Recognition Data Analysis
+---
+title: "Human Activity Recognition Data Analysis"
+output: 
+  html_document:
+    keep_md: TRUE
+---
 
 This repository contains the analysis of the Human Activity Recognition Using Smartphones Dataset.
 
